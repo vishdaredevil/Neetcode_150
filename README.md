@@ -12,7 +12,7 @@ Here is my live progress on the 150 questions.
 
 | # | Topic | Progress | Status |
 | :-- | :--- | :--- | :--- |
-| 1 | **Arrays & Hashing** | `(2 / 9)` | ⏳ In Progress |
+| 1 | **Arrays & Hashing** | `(1 / 9)` | ⏳ In Progress |
 | 2 | **Two Pointers** | `(0 / 5)` | ⚪ Not Started |
 | 3 | **Sliding Window** | `(0 / 6)` | ⚪ Not Started |
 | 4 | **Stack** | `(0 / 7)` | ⚪ Not Started |
